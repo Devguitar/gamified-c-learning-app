@@ -43,7 +43,6 @@ This system focuses on engaging students, giving instant feedback, and tracking 
 | **Database** | SQLite, Firebase |
 | **IDE / Environment** | Android Studio |
 | **Version Control** | Git + GitHub |
-| **Languages Used** | Dart: 90.3%, C++: 5.0%, CMake: 3.8%, Swift: 0.3%, HTML: 0.3%, C: 0.2%, Other: 0.1% |
 
 ---
 
