@@ -52,16 +52,10 @@ It helps students learn effectively by giving instant feedback and tracking thei
 
 Here are some snapshots of the app (work in progress):
 
-![cb3f858e-90d7-427f-8665-fe05b2c31291](https://github.com/user-attachments/assets/260d1613-462f-4311-ba43-ba95b8f470d7)
+<img src="https://github.com/user-attachments/assets/260d1613-462f-4311-ba43-ba95b8f470d7" alt="Tutorial Screen" width="400">
 
-![174695e3-760e-4dca-9967-787a8e67a2a2](https://github.com/user-attachments/assets/657f7741-0b2d-4987-964c-f1cc2b413799)
+<img src="https://github.com/user-attachments/assets/657f7741-0b2d-4987-964c-f1cc2b413799" alt="Coding Game Screen" width="400">
 
-*Optional GIF demo:*
-
-![App Demo](assets/demo.gif)
-*Short demo of the app in action*
-
-> 💡 Tip: Replace these placeholder images with your real screenshots/GIFs.
 
 ---
 
