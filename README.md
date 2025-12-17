@@ -1,4 +1,4 @@
-#🖥️ Gamified C Programming Learning App
+🖥️ Gamified C Programming Learning App
 
 A hybrid mobile application that provides immersive C programming tutorials, interactive games, and real-time coding assessments.  
 This system focuses on engaging students, giving instant feedback, and tracking learning progress to improve C programming skills effectively.
