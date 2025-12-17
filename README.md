@@ -1,43 +1,43 @@
-🖥️ Gamified C Programming Learning App
+# 🖥️ Gamified C Programming Learning App
 
-A hybrid mobile application that provides immersive C programming tutorials, interactive games, and real-time coding assessments.  
-This system focuses on engaging students, giving instant feedback, and tracking learning progress to improve C programming skills effectively.
+A hybrid mobile app that teaches **C programming** using interactive tutorials, coding games, and real-time assessments.  
+It helps students learn effectively by giving instant feedback and tracking their progress.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Goals
 
-- **Provide Immersive C Programming Tutorials**  
-  Offers clear, interactive tutorials that help students understand C programming concepts.
+- **Interactive Tutorials**  
+  Step-by-step lessons to help students understand C programming.
 
-- **Create Interactive Programming Games**  
-  Engages students in learning through gameplay, making coding practice fun and interactive.
+- **Fun Coding Games**  
+  Practice coding through games to make learning engaging.
 
-- **Build a Coding Assessment Module**  
-  Evaluates students’ coding skills in real-time and gives automated feedback for improvement.
+- **Real-Time Coding Assessments**  
+  Check coding skills instantly and give feedback for improvement.
 
-- **Enable Real-Time Feedback**  
-  Helps students immediately correct mistakes and learn effectively after each coding task.
+- **Immediate Feedback**  
+  Students can correct mistakes right away and learn faster.
 
-- **Implement Progress Tracking System**  
-  Monitors learning progress and provides insights into students’ development over time.
+- **Progress Tracking**  
+  Monitor learning progress and see improvement over time.
 
 ---
 
 ## 🚀 Features
 
-- 📚 Interactive C programming tutorials with examples  
-- 🎮 Gamified learning through coding games  
-- 📝 Real-time coding assessments with automated feedback  
-- 📊 Progress tracking dashboard to monitor student improvement  
-- 🔔 Instant notifications and feedback on coding tasks  
+- 📚 Interactive C tutorials with examples  
+- 🎮 Gamified coding challenges  
+- 📝 Real-time coding assessments with feedback  
+- 📊 Dashboard to track progress  
+- 🔔 Notifications for coding tasks and updates  
 
 ---
 
 ## 🧰 Tech Stack
 
-| Layer | Technology |
-|-------|-------------|
+| Part | Technology |
+|------|------------|
 | **Frontend / Mobile** | Dart + Flutter |
 | **Backend / Logic** | Dart, C++ |
 | **Database** | SQLite, Firebase |
@@ -46,7 +46,19 @@ This system focuses on engaging students, giving instant feedback, and tracking 
 
 ---
 
-## ⚙️ Installation Guide (Local Setup)
+## ⚠️ Important Note
+
+This project is **for school and learning purposes only**.  
+
+- All coding exercises are for practice, not real applications.  
+- Any credentials, API keys, or data used are **dummy values or for demo only**.  
+- This app is **not ready for production or real deployment**.  
+
+> Do NOT use this code in real apps or share sensitive information.
+
+---
+
+## ⚙️ How to Run Locally
 
 1. **Install Flutter & Android Studio**  
    Follow the official [Flutter installation guide](https://flutter.dev/docs/get-started/install).
@@ -54,4 +66,3 @@ This system focuses on engaging students, giving instant feedback, and tracking 
 2. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/gamified_cpla_v1.git
-
